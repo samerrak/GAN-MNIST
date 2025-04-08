@@ -22,3 +22,5 @@ Data
 	•	The dataset includes MNIST images with added noise (train.pkl).
 	2.	Transforms
 	•	Optional transforms (e.g., normalization, random cropping) can be applied.
+
+<img width="873" alt="Screenshot 2025-04-08 at 3 42 11 PM" src="https://github.com/user-attachments/assets/d693ad8f-ad42-4622-ba9d-7e874e8e6e54" />
